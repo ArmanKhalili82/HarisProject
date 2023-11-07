@@ -8,6 +8,6 @@ namespace HarisProject
 {
     public interface INumber
     {
-
+        string convert();
     }
 }
